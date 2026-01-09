@@ -15,5 +15,5 @@ A Python based number guessing game where the user guesses a randomly generated 
 
 ## How to Run
 ```bash
-python number-guessing-game.py
+python Number-Guessing-Game.py
 
