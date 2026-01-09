@@ -11,8 +11,9 @@ A Python based number guessing game where the user guesses a randomly generated 
 
 ## Technologies Used
 - Python
+- random module
 
 ## How to Run
 ```bash
-python Number_Guessing_Game.py
+python number-guessing-game.py
 
